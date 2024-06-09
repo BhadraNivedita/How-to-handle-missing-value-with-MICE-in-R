@@ -91,3 +91,5 @@ summary(pooled_results)
 ### Summary
 
 Using MICE for multivariate imputation in R is a powerful way to handle missing data. By generating multiple imputations, MICE provides a robust framework for dealing with the uncertainty introduced by missing values, ensuring that subsequent analyses are more reliable.
+
+There is another example in this repository in a different dataset as a Jupyter notebook. 
