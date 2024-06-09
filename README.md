@@ -1,3 +1,5 @@
+## Data Imputation with R Package MICE:
+
 Multivariate Imputation by Chained Equations (MICE) is a popular method for handling missing data in datasets. It creates multiple imputations (sets of plausible values) for missing data, producing a complete dataset for analysis. The MICE package in R is widely used for this purpose. Here's a step-by-step guide to using MICE in R:
 
 ### Step 1: Install and Load the MICE Package
